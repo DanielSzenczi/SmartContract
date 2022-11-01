@@ -1,1 +1,1 @@
-# Assignment 2 - Samrt Contract
+# Assignment 2 - Smart Contract
